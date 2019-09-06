@@ -12,3 +12,10 @@ bigg_models_reactions.txt
 datos-metanetx.tsv
 reactions.dat
 pathways.dat
+
+
+-----------------
+
+Si se quieren ver la base de datos completa, sin insertar id de Bigg
+
+python full_script_full.py
